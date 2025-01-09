@@ -1,0 +1,19 @@
+2025-01-06 20:03:24,566 - ripley_analysis - INFO - Memory: 42415.81 MB - Starting Ripley's L analysis for reference gene: GREM1
+2025-01-06 20:03:24,566 - ripley_analysis - INFO - Memory: 42415.81 MB - Initial dataset shape: (527911, 5000)
+2025-01-06 20:03:24,566 - ripley_analysis - INFO - Memory: 42415.81 MB - Loaded spatial coordinates with shape: (527911, 2)
+2025-01-06 20:03:24,728 - ripley_analysis - INFO - Memory: 42425.42 MB - Reference gene high expression cells: 97529
+2025-01-06 20:03:24,805 - ripley_analysis - INFO - Memory: 42426.05 MB - Prepared support with max_dist: 6338.61
+2025-01-06 20:03:24,805 - ripley_analysis - INFO - Memory: 42426.05 MB - Starting null model computation...
+2025-01-06 20:03:24,805 - ripley_analysis - INFO - Memory: 42426.05 MB - Computing null distribution 0/100
+2025-01-06 20:03:44,070 - ripley_analysis - INFO - Memory: 42781.35 MB - Computing null distribution 10/100
+2025-01-06 20:04:02,495 - ripley_analysis - INFO - Memory: 42782.04 MB - Computing null distribution 20/100
+2025-01-06 20:04:20,891 - ripley_analysis - INFO - Memory: 42795.56 MB - Computing null distribution 30/100
+2025-01-06 20:04:39,437 - ripley_analysis - INFO - Memory: 42802.62 MB - Computing null distribution 40/100
+2025-01-06 20:04:57,546 - ripley_analysis - INFO - Memory: 42787.80 MB - Computing null distribution 50/100
+2025-01-06 20:05:15,706 - ripley_analysis - INFO - Memory: 42779.73 MB - Computing null distribution 60/100
+2025-01-06 20:05:35,792 - ripley_analysis - INFO - Memory: 42803.40 MB - Computing null distribution 70/100
+2025-01-06 20:05:55,810 - ripley_analysis - INFO - Memory: 42799.31 MB - Computing null distribution 80/100
+2025-01-06 20:06:16,119 - ripley_analysis - INFO - Memory: 42786.83 MB - Computing null distribution 90/100
+2025-01-06 20:06:35,779 - ripley_analysis - INFO - Memory: 42783.02 MB - Completed null model computation in 190.97 seconds
+2025-01-06 20:20:43,318 - ripley_analysis - INFO - Memory: 53067.66 MB - Prepared analysis for 4999 genes
+2025-01-06 20:20:43,318 - ripley_analysis - INFO - Memory: 53067.66 MB - Starting parallel analysis using 16 processes

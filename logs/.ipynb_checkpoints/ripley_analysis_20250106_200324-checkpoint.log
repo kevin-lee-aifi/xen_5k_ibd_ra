@@ -1,0 +1,7 @@
+2025-01-06 20:03:24,566 - ripley_analysis - INFO - Memory: 42415.81 MB - Starting Ripley's L analysis for reference gene: GREM1
+2025-01-06 20:03:24,566 - ripley_analysis - INFO - Memory: 42415.81 MB - Initial dataset shape: (527911, 5000)
+2025-01-06 20:03:24,566 - ripley_analysis - INFO - Memory: 42415.81 MB - Loaded spatial coordinates with shape: (527911, 2)
+2025-01-06 20:03:24,728 - ripley_analysis - INFO - Memory: 42425.42 MB - Reference gene high expression cells: 97529
+2025-01-06 20:03:24,805 - ripley_analysis - INFO - Memory: 42426.05 MB - Prepared support with max_dist: 6338.61
+2025-01-06 20:03:24,805 - ripley_analysis - INFO - Memory: 42426.05 MB - Starting null model computation...
+2025-01-06 20:03:24,805 - ripley_analysis - INFO - Memory: 42426.05 MB - Computing null distribution 0/100

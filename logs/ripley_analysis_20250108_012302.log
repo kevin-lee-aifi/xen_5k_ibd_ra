@@ -1,0 +1,118 @@
+2025-01-08 01:23:02,365 - ripley_analysis - INFO - Memory: 42420.11 MB - Starting Ripley's L analysis for reference gene: GREM1
+2025-01-08 01:23:02,366 - ripley_analysis - INFO - Memory: 42420.11 MB - Initial dataset shape: (527911, 5000)
+2025-01-08 01:23:02,366 - ripley_analysis - INFO - Memory: 42420.11 MB - Loaded spatial coordinates with shape: (527911, 2)
+2025-01-08 01:23:02,521 - ripley_analysis - INFO - Memory: 42428.23 MB - Reference gene high expression cells: 97529
+2025-01-08 01:23:02,593 - ripley_analysis - INFO - Memory: 42428.85 MB - Prepared support with max_dist: 6338.61
+2025-01-08 01:23:02,594 - ripley_analysis - INFO - Memory: 42428.85 MB - Starting null model computation...
+2025-01-08 01:23:02,594 - ripley_analysis - INFO - Memory: 42428.85 MB - Computing null distribution 0/100
+2025-01-08 01:23:12,683 - ripley_analysis - INFO - Memory: 42800.26 MB - Computing null distribution 10/100
+2025-01-08 01:23:23,166 - ripley_analysis - INFO - Memory: 42792.53 MB - Computing null distribution 20/100
+2025-01-08 01:23:33,060 - ripley_analysis - INFO - Memory: 42784.05 MB - Computing null distribution 30/100
+2025-01-08 01:23:43,119 - ripley_analysis - INFO - Memory: 42785.30 MB - Computing null distribution 40/100
+2025-01-08 01:23:53,320 - ripley_analysis - INFO - Memory: 42783.98 MB - Computing null distribution 50/100
+2025-01-08 01:24:02,985 - ripley_analysis - INFO - Memory: 42789.22 MB - Computing null distribution 60/100
+2025-01-08 01:24:13,012 - ripley_analysis - INFO - Memory: 42786.93 MB - Computing null distribution 70/100
+2025-01-08 01:24:22,840 - ripley_analysis - INFO - Memory: 42801.28 MB - Computing null distribution 80/100
+2025-01-08 01:24:32,855 - ripley_analysis - INFO - Memory: 42783.87 MB - Computing null distribution 90/100
+2025-01-08 01:24:42,693 - ripley_analysis - INFO - Memory: 42799.52 MB - Completed null model computation in 100.10 seconds
+2025-01-08 01:24:42,694 - ripley_analysis - INFO - Memory: 42799.52 MB - Starting gene data preparation...
+2025-01-08 01:24:42,695 - ripley_analysis - INFO - Memory: 42799.52 MB - Processing gene 0/4999 (A2ML1). Memory usage: 41.80 GB
+2025-01-08 01:24:58,633 - ripley_analysis - INFO - Memory: 43015.20 MB - Processing gene 100/4999 (ADIPOR2). Memory usage: 42.01 GB
+2025-01-08 01:25:13,929 - ripley_analysis - INFO - Memory: 43214.61 MB - Processing gene 200/4999 (ANKRD44). Memory usage: 42.20 GB
+2025-01-08 01:25:30,120 - ripley_analysis - INFO - Memory: 43428.05 MB - Processing gene 300/4999 (ATF3). Memory usage: 42.41 GB
+2025-01-08 01:25:45,735 - ripley_analysis - INFO - Memory: 43635.52 MB - Processing gene 400/4999 (BEAN1). Memory usage: 42.61 GB
+2025-01-08 01:26:01,805 - ripley_analysis - INFO - Memory: 43840.38 MB - Processing gene 500/4999 (CALM3). Memory usage: 42.81 GB
+2025-01-08 01:26:17,339 - ripley_analysis - INFO - Memory: 44041.89 MB - Processing gene 600/4999 (CCL22). Memory usage: 43.01 GB
+2025-01-08 01:26:33,360 - ripley_analysis - INFO - Memory: 44249.52 MB - Processing gene 700/4999 (CD79A). Memory usage: 43.21 GB
+2025-01-08 01:26:49,485 - ripley_analysis - INFO - Memory: 44425.62 MB - Processing gene 800/4999 (CFDP1). Memory usage: 43.38 GB
+2025-01-08 01:27:05,260 - ripley_analysis - INFO - Memory: 44620.13 MB - Processing gene 900/4999 (CNMD). Memory usage: 43.57 GB
+2025-01-08 01:27:21,284 - ripley_analysis - INFO - Memory: 44835.68 MB - Processing gene 1000/4999 (CSNK1A1L). Memory usage: 43.78 GB
+2025-01-08 01:27:37,365 - ripley_analysis - INFO - Memory: 45033.40 MB - Processing gene 1100/4999 (DAB1). Memory usage: 43.98 GB
+2025-01-08 01:27:53,853 - ripley_analysis - INFO - Memory: 45248.89 MB - Processing gene 1200/4999 (DMRT2). Memory usage: 44.19 GB
+2025-01-08 01:28:09,700 - ripley_analysis - INFO - Memory: 45444.50 MB - Processing gene 1300/4999 (EDNRB). Memory usage: 44.38 GB
+2025-01-08 01:28:26,336 - ripley_analysis - INFO - Memory: 45659.15 MB - Processing gene 1400/4999 (EPHB4). Memory usage: 44.59 GB
+2025-01-08 01:28:42,186 - ripley_analysis - INFO - Memory: 45868.74 MB - Processing gene 1500/4999 (FBL). Memory usage: 44.79 GB
+2025-01-08 01:28:58,689 - ripley_analysis - INFO - Memory: 46069.53 MB - Processing gene 1600/4999 (FOXA1). Memory usage: 44.99 GB
+2025-01-08 01:29:14,853 - ripley_analysis - INFO - Memory: 46285.20 MB - Processing gene 1700/4999 (GATA4). Memory usage: 45.20 GB
+2025-01-08 01:29:31,108 - ripley_analysis - INFO - Memory: 46481.01 MB - Processing gene 1800/4999 (GPR139). Memory usage: 45.39 GB
+2025-01-08 01:29:47,578 - ripley_analysis - INFO - Memory: 46698.29 MB - Processing gene 1900/4999 (HBS1L). Memory usage: 45.60 GB
+2025-01-08 01:30:03,610 - ripley_analysis - INFO - Memory: 46887.72 MB - Processing gene 2000/4999 (HPSE). Memory usage: 45.79 GB
+2025-01-08 01:30:20,342 - ripley_analysis - INFO - Memory: 47104.21 MB - Processing gene 2100/4999 (IGFBP2). Memory usage: 46.00 GB
+2025-01-08 01:30:36,274 - ripley_analysis - INFO - Memory: 47299.38 MB - Processing gene 2200/4999 (INSL3). Memory usage: 46.19 GB
+2025-01-08 01:30:52,973 - ripley_analysis - INFO - Memory: 47514.46 MB - Processing gene 2300/4999 (KCNJ10). Memory usage: 46.40 GB
+2025-01-08 01:31:09,169 - ripley_analysis - INFO - Memory: 47722.55 MB - Processing gene 2400/4999 (KNDC1). Memory usage: 46.60 GB
+2025-01-08 01:31:25,466 - ripley_analysis - INFO - Memory: 47923.38 MB - Processing gene 2500/4999 (LPIN1). Memory usage: 46.80 GB
+2025-01-08 01:31:42,116 - ripley_analysis - INFO - Memory: 48136.84 MB - Processing gene 2600/4999 (MAPK10). Memory usage: 47.01 GB
+2025-01-08 01:31:58,232 - ripley_analysis - INFO - Memory: 48335.44 MB - Processing gene 2700/4999 (MLANA). Memory usage: 47.20 GB
+2025-01-08 01:32:14,893 - ripley_analysis - INFO - Memory: 48549.89 MB - Processing gene 2800/4999 (MYD88). Memory usage: 47.41 GB
+2025-01-08 01:32:31,363 - ripley_analysis - INFO - Memory: 48747.91 MB - Processing gene 2900/4999 (NETO1). Memory usage: 47.61 GB
+2025-01-08 01:32:47,745 - ripley_analysis - INFO - Memory: 48956.84 MB - Processing gene 3000/4999 (NR1H2). Memory usage: 47.81 GB
+2025-01-08 01:33:04,611 - ripley_analysis - INFO - Memory: 49160.09 MB - Processing gene 3100/4999 (ORC6). Memory usage: 48.01 GB
+2025-01-08 01:33:20,495 - ripley_analysis - INFO - Memory: 49369.11 MB - Processing gene 3200/4999 (PCSK1). Memory usage: 48.21 GB
+2025-01-08 01:33:37,251 - ripley_analysis - INFO - Memory: 49586.46 MB - Processing gene 3300/4999 (PIM2). Memory usage: 48.42 GB
+2025-01-08 01:33:53,622 - ripley_analysis - INFO - Memory: 49778.42 MB - Processing gene 3400/4999 (POSTN). Memory usage: 48.61 GB
+2025-01-08 01:34:09,898 - ripley_analysis - INFO - Memory: 49990.88 MB - Processing gene 3500/4999 (PRPF8). Memory usage: 48.82 GB
+2025-01-08 01:34:26,280 - ripley_analysis - INFO - Memory: 50190.06 MB - Processing gene 3600/4999 (PYM1). Memory usage: 49.01 GB
+2025-01-08 01:34:42,539 - ripley_analysis - INFO - Memory: 50402.22 MB - Processing gene 3700/4999 (REST). Memory usage: 49.22 GB
+2025-01-08 01:34:59,116 - ripley_analysis - INFO - Memory: 50610.79 MB - Processing gene 3800/4999 (RSAD2). Memory usage: 49.42 GB
+2025-01-08 01:35:15,106 - ripley_analysis - INFO - Memory: 50812.48 MB - Processing gene 3900/4999 (SEMA3D). Memory usage: 49.62 GB
+2025-01-08 01:35:31,682 - ripley_analysis - INFO - Memory: 51024.97 MB - Processing gene 4000/4999 (SLAMF7). Memory usage: 49.83 GB
+2025-01-08 01:35:47,627 - ripley_analysis - INFO - Memory: 51222.10 MB - Processing gene 4100/4999 (SMAD2). Memory usage: 50.02 GB
+2025-01-08 01:36:04,396 - ripley_analysis - INFO - Memory: 51433.83 MB - Processing gene 4200/4999 (SPAG17). Memory usage: 50.23 GB
+2025-01-08 01:36:20,718 - ripley_analysis - INFO - Memory: 51632.33 MB - Processing gene 4300/4999 (STK4). Memory usage: 50.42 GB
+2025-01-08 01:36:36,815 - ripley_analysis - INFO - Memory: 51844.75 MB - Processing gene 4400/4999 (TCP1). Memory usage: 50.63 GB
+2025-01-08 01:36:52,999 - ripley_analysis - INFO - Memory: 52046.14 MB - Processing gene 4500/4999 (TLR9). Memory usage: 50.83 GB
+2025-01-08 01:37:09,037 - ripley_analysis - INFO - Memory: 52253.18 MB - Processing gene 4600/4999 (TOX4). Memory usage: 51.03 GB
+2025-01-08 01:37:25,002 - ripley_analysis - INFO - Memory: 52467.11 MB - Processing gene 4700/4999 (TTC4). Memory usage: 51.24 GB
+2025-01-08 01:37:41,272 - ripley_analysis - INFO - Memory: 52664.88 MB - Processing gene 4800/4999 (VAV3). Memory usage: 51.43 GB
+2025-01-08 01:37:57,837 - ripley_analysis - INFO - Memory: 52879.83 MB - Processing gene 4900/4999 (YLPM1). Memory usage: 51.64 GB
+2025-01-08 01:38:13,423 - ripley_analysis - INFO - Memory: 53086.53 MB - Completed gene data preparation in 810.73 seconds
+2025-01-08 01:38:13,423 - ripley_analysis - INFO - Memory: 53086.53 MB - Prepared analysis for 4999 genes
+2025-01-08 01:38:13,423 - ripley_analysis - INFO - Memory: 53086.53 MB - Memory before parallel processing: 51.84 GB
+2025-01-08 01:38:13,423 - ripley_analysis - INFO - Memory: 53086.53 MB - Starting parallel analysis using 16 processes
+2025-01-08 01:38:13,423 - ripley_analysis - INFO - Memory: 53086.53 MB - Shared data size: 0.01 GB
+2025-01-08 01:38:13,424 - ripley_analysis - INFO - Memory: 53086.53 MB - Preparing argument list for parallel processing...
+2025-01-08 01:38:13,425 - ripley_analysis - INFO - Memory: 53086.53 MB - Arguments list preparation changed memory usage from 51.84 GB to 51.84 GB
+2025-01-08 01:38:20,061 - ripley_analysis - INFO - Memory: 53108.76 MB - Processed 0 genes. Current memory: 51.86 GB
+2025-01-08 01:38:41,878 - ripley_analysis - INFO - Memory: 53105.51 MB - Processed 100 genes. Current memory: 51.86 GB
+2025-01-08 01:38:58,685 - ripley_analysis - INFO - Memory: 53104.38 MB - Processed 200 genes. Current memory: 51.86 GB
+2025-01-08 01:40:09,327 - ripley_analysis - INFO - Memory: 53105.02 MB - Processed 300 genes. Current memory: 51.86 GB
+2025-01-08 01:40:09,328 - ripley_analysis - INFO - Memory: 53105.02 MB - Processed 400 genes. Current memory: 51.86 GB
+2025-01-08 01:40:09,328 - ripley_analysis - INFO - Memory: 53105.02 MB - Processed 500 genes. Current memory: 51.86 GB
+2025-01-08 01:40:38,859 - ripley_analysis - INFO - Memory: 53104.74 MB - Processed 600 genes. Current memory: 51.86 GB
+2025-01-08 01:40:38,859 - ripley_analysis - INFO - Memory: 53104.74 MB - Processed 700 genes. Current memory: 51.86 GB
+2025-01-08 01:40:38,860 - ripley_analysis - INFO - Memory: 53104.74 MB - Processed 800 genes. Current memory: 51.86 GB
+2025-01-08 01:40:38,860 - ripley_analysis - INFO - Memory: 53104.74 MB - Processed 900 genes. Current memory: 51.86 GB
+2025-01-08 01:41:48,381 - ripley_analysis - INFO - Memory: 53104.85 MB - Processed 1000 genes. Current memory: 51.86 GB
+2025-01-08 01:41:48,382 - ripley_analysis - INFO - Memory: 53104.85 MB - Processed 1100 genes. Current memory: 51.86 GB
+2025-01-08 01:41:48,382 - ripley_analysis - INFO - Memory: 53104.85 MB - Processed 1200 genes. Current memory: 51.86 GB
+2025-01-08 01:41:48,383 - ripley_analysis - INFO - Memory: 53104.85 MB - Processed 1300 genes. Current memory: 51.86 GB
+2025-01-08 01:41:48,383 - ripley_analysis - INFO - Memory: 53104.85 MB - Processed 1400 genes. Current memory: 51.86 GB
+2025-01-08 01:41:48,383 - ripley_analysis - INFO - Memory: 53104.85 MB - Processed 1500 genes. Current memory: 51.86 GB
+2025-01-08 01:41:52,399 - ripley_analysis - INFO - Memory: 53104.89 MB - Processed 1600 genes. Current memory: 51.86 GB
+2025-01-08 01:41:57,599 - ripley_analysis - INFO - Memory: 53104.94 MB - Processed 1700 genes. Current memory: 51.86 GB
+2025-01-08 01:41:57,600 - ripley_analysis - INFO - Memory: 53104.94 MB - Processed 1800 genes. Current memory: 51.86 GB
+2025-01-08 01:42:05,175 - ripley_analysis - INFO - Memory: 53105.41 MB - Processed 1900 genes. Current memory: 51.86 GB
+2025-01-08 01:42:22,308 - ripley_analysis - INFO - Memory: 53105.73 MB - Processed 2000 genes. Current memory: 51.86 GB
+2025-01-08 01:42:32,227 - ripley_analysis - INFO - Memory: 53105.79 MB - Processed 2100 genes. Current memory: 51.86 GB
+2025-01-08 01:42:33,480 - ripley_analysis - INFO - Memory: 53106.02 MB - Processed 2200 genes. Current memory: 51.86 GB
+2025-01-08 01:42:33,480 - ripley_analysis - INFO - Memory: 53106.02 MB - Processed 2300 genes. Current memory: 51.86 GB
+2025-01-08 01:42:37,084 - ripley_analysis - INFO - Memory: 53105.88 MB - Processed 2400 genes. Current memory: 51.86 GB
+2025-01-08 01:43:31,740 - ripley_analysis - INFO - Memory: 53106.96 MB - Processed 2500 genes. Current memory: 51.86 GB
+2025-01-08 01:43:31,741 - ripley_analysis - INFO - Memory: 53106.96 MB - Processed 2600 genes. Current memory: 51.86 GB
+2025-01-08 01:43:31,741 - ripley_analysis - INFO - Memory: 53106.96 MB - Processed 2700 genes. Current memory: 51.86 GB
+2025-01-08 01:44:44,179 - ripley_analysis - INFO - Memory: 53106.85 MB - Processed 2800 genes. Current memory: 51.86 GB
+2025-01-08 01:44:55,948 - ripley_analysis - INFO - Memory: 53107.36 MB - Processed 2900 genes. Current memory: 51.86 GB
+2025-01-08 01:44:55,949 - ripley_analysis - INFO - Memory: 53107.36 MB - Processed 3000 genes. Current memory: 51.86 GB
+2025-01-08 01:44:55,949 - ripley_analysis - INFO - Memory: 53107.36 MB - Processed 3100 genes. Current memory: 51.86 GB
+2025-01-08 01:44:55,950 - ripley_analysis - INFO - Memory: 53107.36 MB - Processed 3200 genes. Current memory: 51.86 GB
+2025-01-08 01:45:13,878 - ripley_analysis - INFO - Memory: 53107.23 MB - Processed 3300 genes. Current memory: 51.86 GB
+2025-01-08 01:45:16,670 - ripley_analysis - INFO - Memory: 53107.26 MB - Processed 3400 genes. Current memory: 51.86 GB
+2025-01-08 01:45:18,906 - ripley_analysis - INFO - Memory: 53107.27 MB - Processed 3500 genes. Current memory: 51.86 GB
+2025-01-08 01:45:28,956 - ripley_analysis - INFO - Memory: 53107.09 MB - Processed 3600 genes. Current memory: 51.86 GB
+2025-01-08 01:45:39,879 - ripley_analysis - INFO - Memory: 53106.54 MB - Processed 3700 genes. Current memory: 51.86 GB
+2025-01-08 01:45:58,901 - ripley_analysis - INFO - Memory: 53107.20 MB - Processed 3800 genes. Current memory: 51.86 GB
+2025-01-08 01:45:58,902 - ripley_analysis - INFO - Memory: 53107.20 MB - Processed 3900 genes. Current memory: 51.86 GB
+2025-01-08 01:46:08,771 - ripley_analysis - INFO - Memory: 53106.76 MB - Processed 4000 genes. Current memory: 51.86 GB
+2025-01-08 01:46:08,773 - ripley_analysis - INFO - Memory: 53106.76 MB - Processed 4100 genes. Current memory: 51.86 GB
+2025-01-08 01:46:30,024 - ripley_analysis - INFO - Memory: 53108.32 MB - Processed 4200 genes. Current memory: 51.86 GB
